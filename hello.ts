@@ -4,4 +4,4 @@ function greetPerson(person){
 }
 
 let user = " joshua";
-console.log("welcome" + greetPerson(user));
+console.log(greetPerson(user));
