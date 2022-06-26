@@ -10,11 +10,5 @@ class ModeUtil {
         return "josh is here again";
     }
 }
-var en;
-(function (en) {
-    en[en["a"] = 1] = "a";
-    en[en["b"] = 2] = "b";
-    en[en["c"] = 3] = "c";
-})(en || (en = {}));
 alert(ModeUtil.toString(9));
 //# sourceMappingURL=index.js.map

@@ -13,7 +13,7 @@ class ModeUtil {
 }
 
 
-enum en {
+const enum en {
 
     a = 1,b,c,
     // d = ()=>{
