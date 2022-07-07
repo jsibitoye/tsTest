@@ -6,6 +6,6 @@ function greetPerson(person: String){
 let user: String = " joshua";
 
 //let varName : type = value;
-//user = "4";
+user = "4";
 
 console.log(greetPerson(user));
